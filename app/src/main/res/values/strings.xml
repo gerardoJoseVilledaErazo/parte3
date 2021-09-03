@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Parte3</string>
+    <string name="msgName" translatable="false">Nombre</string>
+    <string name="msgGender" translatable="false">Genero</string>
+    <string name="msgOld" translatable="false">Edad</string>
+    <string name="msgEmail" translatable="false">Direccion</string>
+    <string name="msgLogin" translatable="false">Registrar</string>
+    <string name="msgCancel" translatable="false">Cancelar</string>
+</resources>
